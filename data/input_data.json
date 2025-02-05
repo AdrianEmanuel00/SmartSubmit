@@ -1,0 +1,179 @@
+{
+    "CF_AFM": {
+      "general": {
+        "pdfIdentifierCode": "CF_AFM_Iluminat_Public",
+        "pdfMajorVersion": "6",
+        "pdfMinorVersion": "0",
+        "pdfBuildNumber": "4",
+        "TitluProiect": "MODERNIZARE SISTEM ILUMINAT PUBLIC ÎN COMUNA CHILIILE JUDETUL BUZĂU",
+        "AutoscorTotal": null,
+        "EsteLiderProiect": "0"
+      },
+      "Solicitant": {
+        "NumeSolicitant": "COMUNA CHILIILE",
+        "Cui": "3662630",
+        "StatutJuridic": "CO3",
+        "IBAN": "RO41TREZ16621A434400XXXX",
+        "Trezoreria": null,
+        "EsteReprezentantLegal": "1",
+        "EsteResponsabilProiect": null,
+        "Adresa": {
+          "Judet": "10",
+          "Localitate": "46108",
+          "Sat": "46117",
+          "CodPostal": "127160",
+          "Strada": "PRINCIPALĂ",
+          "Nr": "27",
+          "Bloc": null,
+          "Scara": null,
+          "Etaj": null,
+          "Apartament": null,
+          "Telefon": "0371352013",
+          "Fax": "0371352013",
+          "Email": "primariachiliilebuzau@yahoo.com"
+        }
+      },
+      "AdresaImplementare": {
+        "Judet": "10",
+        "Localitate": "46108",
+        "Sat": "46117",
+        "CodPostal": "127160",
+        "Strada": "PRINCIPALĂ",
+        "Nr": "27",
+        "Bloc": null
+      },
+      "ReprezentantLegal": {
+        "Nume": "ZAMAN",
+        "Prenume": "VALENTIN-SORIN",
+        "Cnp": "1700410100095",
+        "ActIdentitate": {
+          "Tip": "2",
+          "Serie": "XZ",
+          "Nr": "744112",
+          "DataEliberare": null,
+          "EliberatDe": null,
+          "DataSfarsitValabilitate": null
+        },
+        "Adresa": {
+          "Telefon": "0371352013",
+          "Email": "primariachiliilebuzau@yahoo.com"
+        }
+      },
+      "ResponsabilProiect": {
+        "Nume": null,
+        "Prenume": null,
+        "Cnp": null,
+        "ActIdentitate": {
+          "Tip": null,
+          "Serie": null,
+          "Nr": null,
+          "DataEliberare": null,
+          "EliberatDe": null,
+          "DataSfarsitValabilitate": null
+        },
+        "Adresa": {
+          "Telefon": null,
+          "Email": null
+        }
+      },
+      "FinantareSolicitata": {
+        "FinantareNerambursabilaCifre": "994179.33",
+        "FinantareNerambursabilaLitere": "NOUĂSUTENOUĂZECIȘIPATRUMIIUNASUTĂȘAPTEZECIȘINOUĂLEIȘITREIZECIȘITREIBANI",
+        "ProcentFinantare": "100.00",
+        "ValoareaTotalaCifre": "1442431.73",
+        "ValoareaTotalaLitere": "UNMILIONPATRUSUTEPATRUZECIȘIDOUĂMIIPATRUSUTETREIZECIȘIUNULEIȘIȘAPTEZECIȘITREIBANI",
+        "ContributieProprieProcent": null,
+        "ContributieProprieCifre": null,
+        "ContributieProprieLitere": null,
+        "CheltuieliNeeligibileCifre": "448252.40",
+        "TVARRC": "1"
+      },
+      "Buget": {
+        "Val1": "45496.43",
+        "ValTva1": "8644.32",
+        "ValTot1": "54140.75",
+        "Val2": "29411.76",
+        "ValTva2": "5588.24",
+        "ValTot2": "35000.00",
+        "Val3": "760536.62",
+        "ValTva3": "144501.96",
+        "ValTot3": "905038.58",
+        "Val31": "388002.37",
+        "ValTva31": "73720.45",
+        "ValTot31": "461722.82",
+        "Val32": "372534.25",
+        "ValTva32": "70781.51",
+        "ValTot32": "443315.76",
+        "Val33": "0.00",
+        "ValTva33": "0.00",
+        "ValTot33": "0",
+        "Val4": "0.00",
+        "ValTva4": "0.00",
+        "ValTot4": "0",
+        "Total": "835444.81",
+        "TotalTva": "158734.52",
+        "TotalTot": "994179.33"
+      },
+      "listaDocumente": {
+        "documente": {
+          "document": {
+            "Nr": "CF",
+            "BifaObligatoriuToateProiectele": "1",
+            "BifaObligatoriuDacaProiectulImpune": null
+          },
+          "document": {
+            "Nr": "b",
+            "BifaObligatoriuToateProiectele": null,
+            "BifaObligatoriuDacaProiectulImpune": "0"
+          },
+          "document": {
+            "Nr": "c",
+            "BifaObligatoriuToateProiectele": null,
+            "BifaObligatoriuDacaProiectulImpune": "1"
+          },
+          "document": {
+            "Nr": "d",
+            "BifaObligatoriuToateProiectele": null,
+            "BifaObligatoriuDacaProiectulImpune": "1"
+          },
+          "document": {
+            "Nr": "e",
+            "BifaObligatoriuToateProiectele": "1",
+            "BifaObligatoriuDacaProiectulImpune": null
+          },
+          "document": {
+            "Nr": "f",
+            "BifaObligatoriuToateProiectele": "1",
+            "BifaObligatoriuDacaProiectulImpune": null
+          },
+          "document": {
+            "Nr": "g",
+            "BifaObligatoriuToateProiectele": "1",
+            "BifaObligatoriuDacaProiectulImpune": null
+          },
+          "document": {
+            "Nr": "h",
+            "BifaObligatoriuToateProiectele": "1",
+            "BifaObligatoriuDacaProiectulImpune": null
+          },
+          "document": {
+            "Nr": "i",
+            "BifaObligatoriuToateProiectele": "1",
+            "BifaObligatoriuDacaProiectulImpune": null
+          },
+          "document": {
+            "Nr": "j",
+            "BifaObligatoriuToateProiectele": "1",
+            "BifaObligatoriuDacaProiectulImpune": null
+          }
+        },
+        "altedocumente": {
+          "document": {
+            "Nr": "VAR",
+            "Descriere": null,
+            "Bifa": "0"
+          }
+        }
+      }
+    }
+  }

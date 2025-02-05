@@ -1,0 +1,8 @@
+opencv-python
+pytesseract
+pyautogui
+lxml
+xmltodict
+keyboard
+pygetwindow
+pillow
